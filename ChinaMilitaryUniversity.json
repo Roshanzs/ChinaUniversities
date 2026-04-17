@@ -1,0 +1,343 @@
+[
+    {
+        "province": "中华人民共和国军事院校",
+        "schools": [
+            {
+                "name": "国防大学",
+                "city": "北京市",
+                "code": "",
+                "supervisor": "中央军事委员会",
+                "level": "本科/硕士/博士",
+                "type": "公办"
+            },
+            {
+                "name": "国防科技大学",
+                "city": "长沙市",
+                "code": "",
+                "supervisor": "中央军事委员会",
+                "level": "本科/硕士/博士",
+                "type": "公办"
+            },
+            {
+                "name": "陆军指挥学院",
+                "city": "南京市",
+                "code": "",
+                "supervisor": "陆军",
+                "level": "硕士/博士",
+                "type": "公办"
+            },
+            {
+                "name": "陆军工程大学",
+                "city": "南京市",
+                "code": "",
+                "supervisor": "陆军",
+                "level": "本科/硕士/博士",
+                "type": "公办"
+            },
+            {
+                "name": "陆军步兵学院",
+                "city": "南昌市",
+                "code": "",
+                "supervisor": "陆军",
+                "level": "本科/硕士",
+                "type": "公办"
+            },
+            {
+                "name": "陆军兵种大学",
+                "city": "合肥市",
+                "code": "",
+                "supervisor": "陆军",
+                "level": "本科/硕士/博士",
+                "type": "公办"
+            },
+            {
+                "name": "陆军航空兵学院",
+                "city": "北京市",
+                "code": "",
+                "supervisor": "陆军",
+                "level": "硕士",
+                "type": "公办"
+            },
+            {
+                "name": "陆军特种作战学院",
+                "city": "桂林市",
+                "code": "",
+                "supervisor": "陆军",
+                "level": "本科/硕士",
+                "type": "公办"
+            },
+            {
+                "name": "陆军边海防学院",
+                "city": "西安市",
+                "code": "",
+                "supervisor": "陆军",
+                "level": "本科",
+                "type": "公办"
+            },
+            {
+                "name": "陆军防化学院",
+                "city": "北京市",
+                "code": "",
+                "supervisor": "陆军",
+                "level": "本科/硕士/博士",
+                "type": "公办"
+            },
+            {
+                "name": "陆军军医大学",
+                "city": "重庆市",
+                "code": "",
+                "supervisor": "陆军",
+                "level": "本科/硕士/博士",
+                "type": "公办"
+            },
+            {
+                "name": "海军指挥学院",
+                "city": "南京市",
+                "code": "",
+                "supervisor": "海军",
+                "level": "硕士/博士",
+                "type": "公办"
+            },
+            {
+                "name": "海军工程大学",
+                "city": "武汉市",
+                "code": "",
+                "supervisor": "海军",
+                "level": "本科/硕士/博士",
+                "type": "公办"
+            },
+            {
+                "name": "海军大连舰艇学院",
+                "city": "大连市",
+                "code": "",
+                "supervisor": "海军",
+                "level": "本科/硕士/博士",
+                "type": "公办"
+            },
+            {
+                "name": "海军潜艇学院",
+                "city": "青岛市",
+                "code": "",
+                "supervisor": "海军",
+                "level": "本科/硕士/博士",
+                "type": "公办"
+            },
+            {
+                "name": "海军航空大学",
+                "city": "烟台市",
+                "code": "",
+                "supervisor": "海军",
+                "level": "本科/硕士/博士",
+                "type": "公办"
+            },
+            {
+                "name": "海军军医大学",
+                "city": "上海市",
+                "code": "",
+                "supervisor": "海军",
+                "level": "本科/硕士/博士",
+                "type": "公办"
+            },
+            {
+                "name": "海军勤務学院",
+                "city": "天津市",
+                "code": "",
+                "supervisor": "海军",
+                "level": "硕士",
+                "type": "公办"
+            },
+            {
+                "name": "海军士官学校",
+                "city": "蚌埠市",
+                "code": "",
+                "supervisor": "海军",
+                "level": "专科",
+                "type": "公办"
+            },
+            {
+                "name": "空军指挥学院",
+                "city": "北京市",
+                "code": "",
+                "supervisor": "空军",
+                "level": "硕士/博士",
+                "type": "公办"
+            },
+            {
+                "name": "空军工程大学",
+                "city": "西安市",
+                "code": "",
+                "supervisor": "空军",
+                "level": "本科/硕士/博士",
+                "type": "公办"
+            },
+            {
+                "name": "空军航空大学",
+                "city": "长春市",
+                "code": "",
+                "supervisor": "空军",
+                "level": "本科/硕士/博士",
+                "type": "公办"
+            },
+            {
+                "name": "空军预警学院",
+                "city": "武汉市",
+                "code": "",
+                "supervisor": "空军",
+                "level": "本科/硕士/博士",
+                "type": "公办"
+            },
+            {
+                "name": "空军哈尔滨飞行学院",
+                "city": "哈尔滨市",
+                "code": "",
+                "supervisor": "空军",
+                "level": "初级任职",
+                "type": "公办"
+            },
+            {
+                "name": "空军石家庄飞行学院",
+                "city": "石家庄市",
+                "code": "",
+                "supervisor": "空军",
+                "level": "初级任职",
+                "type": "公办"
+            },
+            {
+                "name": "空军西安飞行学院",
+                "city": "西安市",
+                "code": "",
+                "supervisor": "空军",
+                "level": "初级任职",
+                "type": "公办"
+            },
+            {
+                "name": "空军军医大学",
+                "city": "西安市",
+                "code": "",
+                "supervisor": "空军",
+                "level": "本科/硕士/博士",
+                "type": "公办"
+            },
+            {
+                "name": "空军勤務学院",
+                "city": "徐州市",
+                "code": "",
+                "supervisor": "空军",
+                "level": "硕士",
+                "type": "公办"
+            },
+            {
+                "name": "空军通信士官学校",
+                "city": "大连市",
+                "code": "",
+                "supervisor": "空军",
+                "level": "专科",
+                "type": "公办"
+            },
+            {
+                "name": "火箭军指挥学院",
+                "city": "武汉市",
+                "code": "",
+                "supervisor": "火箭军",
+                "level": "硕士/博士",
+                "type": "公办"
+            },
+            {
+                "name": "火箭军工程大学",
+                "city": "西安市",
+                "code": "",
+                "supervisor": "火箭军",
+                "level": "本科/硕士/博士",
+                "type": "公办"
+            },
+            {
+                "name": "火箭军士官学校",
+                "city": "潍坊市",
+                "code": "",
+                "supervisor": "火箭军",
+                "level": "专科",
+                "type": "公办"
+            },
+            {
+                "name": "航天工程大学",
+                "city": "北京市",
+                "code": "",
+                "supervisor": "军事航天部队",
+                "level": "本科/硕士/博士",
+                "type": "公办"
+            },
+            {
+                "name": "信息工程大学",
+                "city": "郑州市",
+                "code": "",
+                "supervisor": "网络空间部队",
+                "level": "本科/硕士/博士",
+                "type": "公办"
+            },
+            {
+                "name": "解放军医学院",
+                "city": "北京市",
+                "code": "",
+                "supervisor": "联勤保障部队",
+                "level": "硕士/博士",
+                "type": "公办"
+            },
+            {
+                "name": "武警指挥学院",
+                "city": "天津市",
+                "code": "",
+                "supervisor": "武警部队",
+                "level": "硕士",
+                "type": "公办"
+            },
+            {
+                "name": "武警工程大学",
+                "city": "西安市",
+                "code": "",
+                "supervisor": "武警部队",
+                "level": "本科/硕士/博士",
+                "type": "公办"
+            },
+            {
+                "name": "武警警官学院",
+                "city": "成都市",
+                "code": "",
+                "supervisor": "武警部队",
+                "level": "本科",
+                "type": "公办"
+            },
+            {
+                "name": "武警特种警察学院",
+                "city": "北京市",
+                "code": "",
+                "supervisor": "武警部队",
+                "level": "本科",
+                "type": "公办"
+            },
+            {
+                "name": "武警后勤学院",
+                "city": "天津市",
+                "code": "",
+                "supervisor": "武警部队",
+                "level": "硕士",
+                "type": "公办"
+            },
+            {
+                "name": "武警士官学校",
+                "city": "杭州市",
+                "code": "",
+                "supervisor": "武警部队",
+                "level": "专科",
+                "type": "公办"
+            },
+            {
+                "name": "武警海警学院",
+                "city": "宁波市",
+                "code": "",
+                "supervisor": "武警部队",
+                "level": "本科",
+                "type": "公办"
+            }
+        ]
+    }
+]
